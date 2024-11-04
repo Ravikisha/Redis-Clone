@@ -22,6 +22,8 @@ A Redis clone database implemented in both **Go** and **Rust**. This project aim
 - **Simple Command Interface**: A command-line interface to interact with the database.
 - **High Performance**: Designed for low latency and high throughput.
 
+![Diagram](./docs/diagram.png)
+
 ## Technologies
 
 - **Go**: The Go implementation is designed for performance and ease of use, utilizing goroutines for concurrent processing.
